@@ -1245,7 +1245,7 @@ textarea.form-control, textarea.form-control:focus {
 .timeline-second-style .item-period {
   color: #aaa;
   margin: 3px 0;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.4em;
 }
 
@@ -1334,6 +1334,10 @@ textarea.form-control, textarea.form-control:focus {
 
 .skills-second-style .skill-container.skill-2 .skill-percentage {
   width: 60%;
+}
+
+.skills-second-style .skill-container.skill-30 .skill-percentage {
+  width: 30%;
 }
 
 .skills-second-style .skill-container.skill-3 .skill-percentage {
